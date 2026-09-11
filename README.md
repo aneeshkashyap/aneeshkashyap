@@ -15,39 +15,19 @@
 
 ## 👨‍💻 About Me
 
-```python
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-class AneeshKashyap:
-    def __init__(self):
-        self.name           = "Aneesh Kashyap K S"
-        self.location       = "Chennai, Tamil Nadu, India 🇮🇳"
-        self.degree         = "B.E. Computer Science Engineering (2024–2028)"
-        self.college        = "Sri Venkateswara College of Engineering"
-        self.cgpa           = "8.1 / 10"
-        self.role           = "Data Analyst Engineer | CS Student"
+- 🎓 &nbsp;**3rd Year CS Student** at Sri Venkateswara College of Engineering, Chennai
+- 📊 &nbsp;Passionate about **Data Analytics, EDA & Visualization**
+- 🤖 &nbsp;Experienced with **ML pipelines** — Churn Prediction, Forecasting, Chatbots
+- 🏏 &nbsp;Built an **interactive ICC T20 WC 2024 Dashboard** with React + Recharts
+- 👔 &nbsp;**Membership Chair**, SVCE ACM Student Chapter (2026–27)
+- ⚡ &nbsp;Love **AI-assisted development** — Claude Code, Gemini CLI, vibe coding
+- 🌱 &nbsp;Currently exploring **Power BI, Next.js & Advanced ML**
+- 💡 &nbsp;Fun fact: *I turn messy CSV files into insights people actually use!*
+- 📫 &nbsp;Reach me at **ksaneeshkashyap@gmail.com**
 
-        self.stack = [
-            "Python", "Pandas", "NumPy", "Scikit-learn",
-            "Matplotlib", "Seaborn", "SQL", "React",
-            "Streamlit", "Flask", "TensorFlow"
-        ]
-
-        self.currentlyLearning = [
-            "Advanced Machine Learning → XGBoost, LightGBM",
-            "Dashboard Dev → Power BI, Streamlit",
-            "AI-Assisted Dev → Claude Code, Gemini CLI",
-            "Web Dev → Next.js, Tailwind CSS"
-        ]
-
-        self.funFact = "I turn messy CSV files into insights people actually use 📊"
-
-    def motto(self):
-        return "Data speaks louder than opinions. Let it. 🔍"
-
-me = AneeshKashyap()
-print(me.motto())
-```
+<br clear="right"/>
 
 ---
 
@@ -106,10 +86,11 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/aneeshkashyap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aneeshkashyap&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aneeshkashyap&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400"/>
 </a>
+&nbsp;
 <a href="https://github.com/aneeshkashyap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshkashyap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshkashyap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400"/>
 </a>
 
 </div>
@@ -130,7 +111,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Aneesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshkashyap&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/aneeshkashyap)
+[![Aneesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshkashyap&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=10)](https://github.com/aneeshkashyap)
 
 </div>
 
@@ -140,7 +121,7 @@ print(me.motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aneeshkashyap&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aneeshkashyap&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
